@@ -11,7 +11,7 @@ scikit-learn
 matplotlib
 
 # Data
-The dataset used for this project should be organized as follows:
+The dataset used for this project was "emotion detection" from Kaggle and should be organized as follows:
 
 data/
     train/
@@ -37,6 +37,8 @@ data/
         
 train/ contains subdirectories for each emotion class, each containing the training images.
 test/ contains subdirectories for each emotion class, each containing the test images.
+
+link to dataset: https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
 
 # Code Overview
 The code is organized as follows:
